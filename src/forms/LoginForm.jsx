@@ -81,7 +81,7 @@ const LoginForm = () => {
 
           <Field>
             <button className="bg-blue-500 hover:bg-blue-600 text-white p-2 text-sm font-semibold mt-2 rounded-md cursor-pointer">
-              {loading ? "Login..." : "Loading"}
+              {loading ? "Login..." : "Login"}
             </button>
           </Field>
 
